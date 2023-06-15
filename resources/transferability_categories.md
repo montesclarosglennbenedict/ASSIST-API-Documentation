@@ -39,4 +39,4 @@
 | ----------- | ----------- | ----------- |
 | institutionId | integer | The value of the sending (from) institution ID. |
 | academicYearId | integer | The value of the academic year ID. |
-| listType | string | The type of the list
+| listType | string | The type of the transferability list being accessed. |
