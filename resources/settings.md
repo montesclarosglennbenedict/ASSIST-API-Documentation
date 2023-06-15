@@ -2,6 +2,8 @@
 
 Settings for the ASSIST.org website.
 
+## Example Settings Object
+
 ```js
 {
   //The highest fall year that one can access for articulation agreements in ASSIST.org
