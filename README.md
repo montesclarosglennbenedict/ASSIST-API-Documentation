@@ -6,3 +6,4 @@ All API access is over HTTPS.
 
 All API responses are in JSON format.
 
+## Note: Third-party users appear to be unable to access database raw data. 
