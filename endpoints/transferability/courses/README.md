@@ -1,8 +1,8 @@
-# Agreements/Categories
+# Agreements/Courses
 
 Information on the availability of different categories of articulation agreements.
 
-## Example Agreements/Categories Object
+## Example Agreements/Courses Object
 
 ```js
 {
