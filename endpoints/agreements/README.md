@@ -1,8 +1,27 @@
 # Agreements
 
-Agreement articulation list from an institution to an institution.
+Agreement articulation list from an institution to an institution. Format differs for Next Gen/Legacy and MOD articulation agreements.
 
-## Example Agreements Object
+## Example Agreements Object (MOD)
+
+```js
+{
+  "reports": [
+    {
+      "label": "European Languages and Transcultural Studies with German/B.A.",
+      "key": "74/140/to/117/Major/11f80810-575c-4100-8fdf-4ae93667636b",
+      "ownerInstitutionId": 117
+    },
+    {
+      "label": "Linguistics and Computer Science/B.A.",
+      "key": "74/140/to/117/Major/d1a0f785-6aa5-4b20-8551-461045892ec4",
+      "ownerInstitutionId": 117
+    }
+  ]
+}
+```
+
+## Example Agreements Object (Next Gen, Legacy)
 
 ```js
 {
