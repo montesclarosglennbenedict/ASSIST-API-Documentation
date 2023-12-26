@@ -2,7 +2,7 @@
 
 Information on the articulation agreements. Valid API only for MOD articulation agreements.
 
-## Example Agreements/Categories Object
+## Example Agreements
 
 ```js
 {
